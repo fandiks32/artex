@@ -1,0 +1,12 @@
+selamat?datang	welcome
+selamat?malam	good night
+selamat?pagi	good morning
+selamat?siang	good afternoon
+selamat?tinggal	goodbye
+taman?rekreasi	recreational park
+kolam?renang	swimming pool
+taman?ikan	garden fish
+rumah?pipa	home plumbing
+taman?burung	garden birds
+taman?reptil	reptile park
+wisata?belanja	shopping

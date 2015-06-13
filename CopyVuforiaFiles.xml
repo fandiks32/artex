@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="artext" default="CopyVuforiaSo">
+    <target name="CopyVuforiaSo">
+        <copy overwrite="true" todir="libs/armeabi-v7a">
+			<fileset dir="E:/Android/Vuforia-SDK4.0/build/lib/armeabi-v7a/" />
+		</copy>
+    </target>
+</project>
